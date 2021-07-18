@@ -1,23 +1,23 @@
 # climate_starter
 
-For this project there are 2 steps:
+
 1. ## Climate Analysis & Exploration
   a. You can view the **source code** at **<em>climate_starter.ipynb</em>** <br>
   b. For graphs <br>
   Precipitation Analysis <br>
-  ![Precipitation Analysis](https://github.com/karikashah/climate_starter/blob/master/Precipitation_last_12months.png)
+  ![Precipitation Analysis](https://github.com/anjalikhare28/sqlalchemy-challenge/blob/2e591b156e4ca98069e40ac91e4485ebb9161291/Precipitation_last_12months.png)
   
   --------------------------
   Station Analysis <br>
-  ![Station Analysis](https://github.com/karikashah/climate_starter/blob/master/Temperature_for_active%20station_last_12months.png)
+  ![Station Analysis](https://github.com/anjalikhare28/sqlalchemy-challenge/blob/2e591b156e4ca98069e40ac91e4485ebb9161291/Temperature_for_active%20station_last_12months.png)
   
   --------------------------
   Temperature Analysis <br>
-  ![Temperature Analysis](https://github.com/karikashah/climate_starter/blob/master/Bar_MyTrip_Avg_Temp.png)
+  ![Temperature Analysis](https://github.com/anjalikhare28/sqlalchemy-challenge/blob/2e591b156e4ca98069e40ac91e4485ebb9161291/Bar_Trip_Avg_Temp.png)
   
   --------------------------
   Predicated Temperature Analysis <br>
-  ![Predicated Temperature Analysis](https://github.com/karikashah/climate_starter/blob/master/Predicted_Temperatures_for_Trip.png)
+  ![Predicated Temperature Analysis](https://github.com/anjalikhare28/sqlalchemy-challenge/blob/2e591b156e4ca98069e40ac91e4485ebb9161291/Predicted_Temperatures_for_Trip.png)
   
   --------------------------
  2. ## Climate app
